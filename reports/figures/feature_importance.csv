@@ -1,0 +1,16 @@
+feature,label,importance
+pop_density,Population Density,0.2371193038283938
+log_dist_to_bart_m,Distance to BART (log),0.18153363922426105
+transit_mode_share,Transit Mode Share,0.17402421810040222
+low_income_poor_transit,Low Income × Poor Transit,0.14663145109826942
+log_median_income,Median Income (log),0.08007277594549914
+zero_vehicle_pct,Zero-Vehicle Households %,0.05986610050768044
+zero_veh_x_bart_dist,Zero-Vehicle × BART Distance,0.04590233446262189
+car_dependency_index,Car Dependency Index,0.031919015982062766
+transit_need_gap,Transit Need Gap,0.016069897133058834
+pct_area_covered_800m,% Area within 800m of Stop,0.008648892257812643
+stop_density_per_sq_km,Stop Density / sq km,0.006055358817281456
+avg_stop_departures_per_day,Avg Daily Departures/Stop,0.004999380263272193
+transit_access_index.1,transit_access_index.1,0.00483757540064657
+income_quintile,Income Quintile,0.0023200569787375676
+agencies_serving,Agencies Serving Tract,0.0

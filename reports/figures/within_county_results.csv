@@ -1,0 +1,10 @@
+county,n_tracts,r2_cv,top_features
+Alameda,379,-0.081,"zero_veh_x_bart_dist, transit_mode_share, log_dist_to_bart_m"
+Contra Costa,242,-0.065,"zero_vehicle_pct, car_dependency_index, pct_area_covered_800m"
+Marin,63,-0.072,"log_dist_to_bart_m, income_quintile, transit_mode_share"
+Napa,40,0.546,"income_quintile, transit_mode_share, low_income_poor_transit"
+San Francisco,244,0.111,"log_median_income, transit_access_index.1, transit_mode_share"
+San Mateo,174,0.113,"transit_mode_share, agencies_serving, zero_veh_x_bart_dist"
+Santa Clara,408,0.095,"zero_veh_x_bart_dist, log_dist_to_bart_m, pop_density"
+Solano,100,0.132,"zero_vehicle_pct, transit_mode_share, car_dependency_index"
+Sonoma,122,0.116,"income_quintile, transit_mode_share, log_dist_to_bart_m"
