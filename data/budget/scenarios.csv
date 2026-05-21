@@ -1,6 +1,6 @@
 scenario_id,scenario_name,total_budget,strategy,cost_tier,description,tracts_improved,population_newly_covered,total_new_stops,total_route_miles_added,budget_used,budget_utilization_pct,cost_per_resident
-S1,Minimum Viable,5000000,highest_need_first,mid,Maximum equity impact per dollar — focuses on worst-served tracts,18,119025,36,9.0,4950000.0,99.0,41.59
-S2,Population Priority,5000000,most_population_first,mid,Maximum residents reached — may skip highest-need but low-pop areas,18,204075,36,9.0,4950000.0,99.0,24.26
-S3,Moderate Expansion,15000000,highest_need_first,mid,Meaningful regional improvement with moderate investment,54,332642,108,27.0,14850000.0,99.0,44.64
-S4,Full Equity,30000000,highest_need_first,mid,What would it take to eliminate all transit deserts?,109,712423,218,54.5,29975000.0,99.9,42.07
-S5,Conservative Estimate,15000000,highest_need_first,high,Same as S3 but using high-end cost estimates,36,231919,72,18.0,14760000.0,98.4,63.64
+S1,Minimum Viable,5000000,highest_need_first,mid,Maximum equity impact per dollar — focuses on worst-served tracts,18,75639,36,9.0,4950000.0,99.0,65.44
+S2,Population Priority,5000000,most_population_first,mid,Maximum residents reached — may skip highest-need but low-pop areas,18,151567,36,9.0,4950000.0,99.0,32.66
+S3,Moderate Expansion,15000000,highest_need_first,mid,Meaningful regional improvement with moderate investment,54,232878,108,27.0,14850000.0,99.0,63.77
+S4,Full Equity,30000000,highest_need_first,mid,What would it take to eliminate all transit deserts?,109,458419,218,54.5,29975000.0,99.9,65.39
+S5,Conservative Estimate,15000000,highest_need_first,high,Same as S3 but using high-end cost estimates,36,152207,72,18.0,14760000.0,98.4,96.97

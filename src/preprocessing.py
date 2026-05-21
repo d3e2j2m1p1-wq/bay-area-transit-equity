@@ -160,7 +160,7 @@ def calculate_stop_frequency(agency: str) -> pd.DataFrame:
     if not stop_times_path.exists():
         return pd.DataFrame(columns=["stop_id", "avg_daily_departures", "agency"])
 
-    stop_times = pd.read_csv(stop_times_path, dtype={"stop_id": str})
+    stop_times = pd.read_csv(stop_times_path, dtype={"stop_id": str, "trip_id": str})
     trips = pd.read_csv(trips_path, dtype={"trip_id": str, "service_id": str})
 
     # Try to filter to weekday services
