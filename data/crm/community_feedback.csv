@@ -1,0 +1,101 @@
+feedback_id,date_submitted,tract_geoid,category,route_id,stop_id,agency,sentiment,description,status,assigned_to
+FB-0001,2025-08-29,06075023100,safety,NL,50106,BART,neutral,"Poor lighting at bus stop, feels unsafe after dark",open,STK-006
+FB-0002,2025-11-24,06001401100,frequency,NL,,BART,neutral,"Wait times too long after 7 PM, cuts off evening commuters",resolved,STK-011
+FB-0003,2025-10-03,06075023100,overcrowding,57,,AC Transit,neutral,"Bus is consistently packed during morning rush, riders left at stop",open,STK-020
+FB-0004,2025-08-23,06001983200,frequency,72M,56201,AC Transit,neutral,"Bus only comes every 45 minutes, need more frequent service",open,
+FB-0005,2025-06-03,06001401200,schedule_reliability,72M,55925,AC Transit,negative,Route 72M frequently skips stops without explanation,in_progress,STK-023
+FB-0006,2025-05-12,06001401600,new_stop_request,,,BART,negative,Requesting new stop near senior housing on Main St,open,
+FB-0007,2026-02-23,06001401600,schedule_reliability,57,57428,SFMTA,negative,Bus regularly arrives 10-15 minutes late,closed,STK-012
+FB-0008,2025-10-16,06001983200,new_stop_request,,,BART,negative,"Large apartment complex 1 mile from nearest stop, need coverage",in_progress,
+FB-0009,2025-05-25,06001434000,overcrowding,57,,SFMTA,negative,Cannot board with stroller due to overcrowding on weekday mornings,open,STK-006
+FB-0010,2025-11-28,06001983200,schedule_reliability,40,59125,BART,neutral,Real-time predictions don't match actual arrivals,open,
+FB-0011,2025-12-19,06013314000,cleanliness,18,55168,SFMTA,positive,"Bus shelter covered in graffiti, bench broken",in_progress,
+FB-0012,2025-06-29,06001401100,fare,57,55155,AC Transit,negative,Transfer between BART and AC Transit too expensive for daily commuters,open,
+FB-0013,2025-05-21,06001401500,safety,40,54339,AC Transit,neutral,"No shelter at stop on busy road, pedestrians at risk",open,
+FB-0014,2025-12-02,06001401200,route_coverage,97,57019,AC Transit,neutral,No transit service to the new medical center on 97 corridor,closed,STK-013
+FB-0015,2026-02-04,06001401600,new_stop_request,,51489,SFMTA,negative,Requesting new stop near senior housing on Main St,resolved,STK-004
+FB-0016,2026-01-24,06013314000,schedule_reliability,99,56916,AC Transit,negative,Route 99 frequently skips stops without explanation,open,STK-013
+FB-0017,2025-08-19,06013360000,accessibility,NL,59064,AC Transit,negative,Bus kneel feature not functioning at this stop,open,STK-001
+FB-0018,2025-07-15,06013313000,frequency,57,55573,SFMTA,neutral,Weekend service on 57 reduced to hourly — not usable,in_progress,
+FB-0019,2025-08-26,06013362000,overcrowding,NL,,BART,neutral,"Bus is consistently packed during morning rush, riders left at stop",resolved,STK-024
+FB-0020,2026-01-14,06001434000,route_coverage,72M,51743,AC Transit,negative,No transit service to the new medical center on 72M corridor,open,STK-010
+FB-0021,2026-01-04,06013361000,overcrowding,97,,BART,negative,Cannot board with stroller due to overcrowding on weekday mornings,closed,STK-018
+FB-0022,2025-06-13,06001402100,frequency,97,50319,AC Transit,neutral,"Bus only comes every 45 minutes, need more frequent service",open,
+FB-0023,2025-12-14,06001401600,frequency,18,,SFMTA,positive,"Wait times too long after 7 PM, cuts off evening commuters",resolved,STK-003
+FB-0024,2025-08-10,06013315000,accessibility,57,58727,SFMTA,negative,Bus kneel feature not functioning at this stop,in_progress,STK-005
+FB-0025,2026-01-21,06075012400,new_stop_request,,,AC Transit,negative,New school campus has no transit access,open,STK-014
+FB-0026,2025-04-27,06013315000,safety,1R,,AC Transit,neutral,Multiple incidents reported at this station in past month,in_progress,
+FB-0027,2025-07-25,06001401700,safety,18,54061,AC Transit,negative,"No shelter at stop on busy road, pedestrians at risk",closed,
+FB-0028,2025-06-18,06001434000,frequency,18,59641,AC Transit,neutral,"Bus only comes every 45 minutes, need more frequent service",closed,
+FB-0029,2025-12-19,06001401500,cleanliness,57,,AC Transit,negative,"Bus shelter covered in graffiti, bench broken",open,
+FB-0030,2025-07-26,06013360000,overcrowding,18,,AC Transit,negative,"Bus is consistently packed during morning rush, riders left at stop",open,STK-007
+FB-0031,2025-06-27,06001401700,fare,97,53981,AC Transit,negative,Transfer between BART and AC Transit too expensive for daily commuters,closed,STK-026
+FB-0032,2026-02-26,06013361000,frequency,NL,,AC Transit,neutral,"Bus only comes every 45 minutes, need more frequent service",resolved,
+FB-0033,2025-08-19,06013361000,safety,NL,50887,BART,negative,"No shelter at stop on busy road, pedestrians at risk",open,STK-021
+FB-0034,2025-09-21,06001983200,accessibility,57,51790,AC Transit,negative,"Wheelchair ramp at stop is broken, reported twice already",in_progress,
+FB-0035,2025-08-29,06001401000,schedule_reliability,1R,,AC Transit,negative,Route 1R frequently skips stops without explanation,resolved,
+FB-0036,2026-03-08,06013362000,frequency,40,59016,SFMTA,negative,"Bus only comes every 45 minutes, need more frequent service",open,
+FB-0037,2026-02-27,06001401200,frequency,97,53872,SFMTA,positive,"Bus only comes every 45 minutes, need more frequent service",open,
+FB-0038,2025-12-27,06013315000,schedule_reliability,40,50960,BART,negative,Real-time predictions don't match actual arrivals,open,
+FB-0039,2025-12-01,06075012400,overcrowding,51A,57454,BART,positive,Standing room only every day on the 51A line,open,
+FB-0040,2025-08-09,06013313000,frequency,97,,SFMTA,positive,Weekend service on 97 reduced to hourly — not usable,resolved,
+FB-0041,2025-07-12,06001401100,schedule_reliability,51A,,SFMTA,negative,Route 51A frequently skips stops without explanation,resolved,
+FB-0042,2025-08-14,06001401200,overcrowding,51A,58701,AC Transit,negative,Cannot board with stroller due to overcrowding on weekday mornings,open,
+FB-0043,2026-01-10,06013362000,route_coverage,97,,AC Transit,negative,No direct bus route connecting our neighborhood to BART,resolved,
+FB-0044,2026-02-13,06001402000,frequency,1R,59333,BART,neutral,"Wait times too long after 7 PM, cuts off evening commuters",resolved,
+FB-0045,2025-06-02,06001442000,schedule_reliability,52,,AC Transit,negative,Bus regularly arrives 10-15 minutes late,open,STK-019
+FB-0046,2025-12-03,06075023100,frequency,97,,SFMTA,negative,"Wait times too long after 7 PM, cuts off evening commuters",resolved,STK-008
+FB-0047,2026-02-07,06001434000,new_stop_request,,54915,AC Transit,negative,"Large apartment complex 1 mile from nearest stop, need coverage",open,
+FB-0048,2025-08-24,06001401500,schedule_reliability,57,59224,BART,negative,Bus regularly arrives 10-15 minutes late,open,STK-003
+FB-0049,2025-07-30,06075023100,cleanliness,97,,AC Transit,positive,"Bus shelter covered in graffiti, bench broken",open,STK-003
+FB-0050,2025-11-21,06001432000,fare,1R,,SFMTA,positive,Clipper card machines frequently broken at this station,closed,STK-023
+FB-0051,2025-05-16,06001402100,frequency,72M,59086,AC Transit,neutral,Weekend service on 72M reduced to hourly — not usable,open,
+FB-0052,2025-12-01,06075023100,route_coverage,57,,BART,negative,No direct bus route connecting our neighborhood to BART,open,
+FB-0053,2025-11-27,06075010100,schedule_reliability,97,,BART,negative,Bus regularly arrives 10-15 minutes late,closed,
+FB-0054,2025-04-29,06013362000,schedule_reliability,18,54325,AC Transit,neutral,Bus regularly arrives 10-15 minutes late,open,STK-009
+FB-0055,2025-05-26,06013315000,new_stop_request,,54533,SFMTA,neutral,Requesting new stop near senior housing on Main St,in_progress,
+FB-0056,2025-05-24,06013314000,route_coverage,18,52647,BART,negative,No direct bus route connecting our neighborhood to BART,resolved,STK-018
+FB-0057,2026-04-11,06001402000,fare,NL,,AC Transit,negative,Need low-income fare program awareness at this location,in_progress,STK-023
+FB-0058,2026-03-28,06001433000,overcrowding,99,59543,AC Transit,neutral,Cannot board with stroller due to overcrowding on weekday mornings,in_progress,STK-014
+FB-0059,2025-11-09,06001401000,overcrowding,99,50653,AC Transit,neutral,"Bus is consistently packed during morning rush, riders left at stop",open,STK-007
+FB-0060,2026-02-22,06013314000,route_coverage,1R,59173,BART,negative,No transit service to the new medical center on 1R corridor,open,STK-014
+FB-0061,2026-01-26,06001441000,overcrowding,52,53878,BART,neutral,Cannot board with stroller due to overcrowding on weekday mornings,resolved,STK-026
+FB-0062,2026-04-03,06001434000,other,99,,BART,negative,"Bus stop sign is missing, confuses new riders",open,STK-026
+FB-0063,2025-12-09,06001401100,safety,NL,,SFMTA,negative,Multiple incidents reported at this station in past month,resolved,STK-004
+FB-0064,2025-08-18,06001402100,schedule_reliability,NL,,AC Transit,negative,Bus regularly arrives 10-15 minutes late,open,STK-015
+FB-0065,2025-12-20,06013362000,route_coverage,18,,AC Transit,negative,Nearest bus stop is a 25-minute walk from residential area,closed,STK-013
+FB-0066,2026-03-11,06001442000,schedule_reliability,18,54573,AC Transit,neutral,Real-time predictions don't match actual arrivals,open,
+FB-0067,2025-05-03,06013314000,safety,97,58785,AC Transit,negative,"No shelter at stop on busy road, pedestrians at risk",open,
+FB-0068,2025-12-03,06075012400,overcrowding,51A,,AC Transit,neutral,"Bus is consistently packed during morning rush, riders left at stop",open,STK-009
+FB-0069,2025-06-14,06001433000,route_coverage,51A,55139,AC Transit,negative,No direct bus route connecting our neighborhood to BART,in_progress,
+FB-0070,2025-09-30,06013361000,schedule_reliability,97,53114,AC Transit,negative,Bus regularly arrives 10-15 minutes late,resolved,
+FB-0071,2025-07-23,06075012400,route_coverage,NL,58821,AC Transit,negative,No direct bus route connecting our neighborhood to BART,open,STK-024
+FB-0072,2025-09-07,06001401000,schedule_reliability,1R,,SFMTA,negative,Real-time predictions don't match actual arrivals,in_progress,STK-011
+FB-0073,2025-05-11,06013361000,safety,52,54920,BART,negative,"No shelter at stop on busy road, pedestrians at risk",closed,STK-022
+FB-0074,2025-09-21,06075023100,safety,NL,59083,AC Transit,positive,"No shelter at stop on busy road, pedestrians at risk",open,
+FB-0075,2025-10-03,06001401000,overcrowding,NL,52851,BART,negative,Cannot board with stroller due to overcrowding on weekday mornings,open,STK-010
+FB-0076,2026-04-15,06013315000,frequency,NL,53443,SFMTA,negative,Weekend service on NL reduced to hourly — not usable,open,
+FB-0077,2025-05-15,06013362000,overcrowding,52,57238,SFMTA,negative,Cannot board with stroller due to overcrowding on weekday mornings,resolved,
+FB-0078,2025-08-16,06001401500,new_stop_request,,52780,BART,negative,New school campus has no transit access,resolved,STK-010
+FB-0079,2026-02-27,06001402100,other,97,53848,BART,negative,"Bus stop sign is missing, confuses new riders",open,STK-008
+FB-0080,2026-04-03,06075012400,cleanliness,1R,,BART,negative,"Bus shelter covered in graffiti, bench broken",resolved,STK-020
+FB-0081,2025-09-15,06075012600,overcrowding,57,59431,SFMTA,neutral,Standing room only every day on the 57 line,open,
+FB-0082,2025-09-23,06001402100,fare,NL,,SFMTA,negative,Clipper card machines frequently broken at this station,open,STK-001
+FB-0083,2025-12-24,06075023100,frequency,57,,BART,positive,"Wait times too long after 7 PM, cuts off evening commuters",resolved,STK-017
+FB-0084,2025-07-04,06001401500,safety,40,,BART,negative,"Poor lighting at bus stop, feels unsafe after dark",resolved,STK-015
+FB-0085,2025-05-09,06013314000,new_stop_request,,59157,AC Transit,negative,"Large apartment complex 1 mile from nearest stop, need coverage",open,STK-025
+FB-0086,2025-07-31,06001432000,route_coverage,40,58976,AC Transit,positive,No transit service to the new medical center on 40 corridor,open,
+FB-0087,2025-08-15,06013314000,overcrowding,99,54050,AC Transit,negative,Cannot board with stroller due to overcrowding on weekday mornings,open,STK-009
+FB-0088,2025-05-30,06001401100,schedule_reliability,97,,BART,neutral,Real-time predictions don't match actual arrivals,open,
+FB-0089,2025-11-27,06075010100,overcrowding,72M,58849,AC Transit,neutral,"Bus is consistently packed during morning rush, riders left at stop",resolved,
+FB-0090,2025-10-01,06075010100,cleanliness,99,53505,AC Transit,positive,"Bus shelter covered in graffiti, bench broken",open,
+FB-0091,2025-07-12,06001442000,new_stop_request,,51020,SFMTA,negative,"Large apartment complex 1 mile from nearest stop, need coverage",open,
+FB-0092,2025-06-20,06001401000,route_coverage,NL,50320,AC Transit,negative,Nearest bus stop is a 25-minute walk from residential area,open,STK-025
+FB-0093,2025-08-14,06013361000,overcrowding,52,,BART,neutral,Standing room only every day on the 52 line,closed,
+FB-0094,2025-07-14,06001401500,safety,NL,58947,AC Transit,neutral,"No shelter at stop on busy road, pedestrians at risk",closed,STK-008
+FB-0095,2025-11-27,06075023100,overcrowding,40,50475,SFMTA,negative,"Bus is consistently packed during morning rush, riders left at stop",in_progress,
+FB-0096,2025-08-19,06001401100,other,NL,58751,SFMTA,negative,Requesting better signage for route changes,in_progress,
+FB-0097,2025-07-01,06013362000,schedule_reliability,NL,51375,BART,negative,Route NL frequently skips stops without explanation,in_progress,STK-005
+FB-0098,2026-03-21,06001401000,fare,40,,SFMTA,negative,Transfer between BART and AC Transit too expensive for daily commuters,closed,
+FB-0099,2025-10-25,06013360000,route_coverage,40,56211,AC Transit,negative,Nearest bus stop is a 25-minute walk from residential area,in_progress,
+FB-0100,2026-03-05,06013360000,safety,NL,58837,SFMTA,negative,"No shelter at stop on busy road, pedestrians at risk",closed,

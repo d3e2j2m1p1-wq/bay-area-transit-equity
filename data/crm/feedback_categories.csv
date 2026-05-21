@@ -1,0 +1,11 @@
+category_id,category_label,priority_weight
+overcrowding,Overcrowding,2.5
+frequency,Service Frequency,3.0
+safety,Safety & Security,2.5
+accessibility,ADA Accessibility,2.0
+route_coverage,Route Coverage Gap,3.0
+cleanliness,Cleanliness,1.0
+fare,Fare Issues,1.5
+schedule_reliability,Schedule Reliability,2.5
+new_stop_request,New Stop Request,2.0
+other,Other,1.0

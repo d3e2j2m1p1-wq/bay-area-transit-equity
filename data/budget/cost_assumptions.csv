@@ -1,0 +1,7 @@
+cost_item,unit,low_estimate,mid_estimate,high_estimate,source
+Bus operating cost (per revenue-mile),per_revenue_mile,12,18,25,NTD 2023
+Bus operating cost (per revenue-hour),per_revenue_hour,150,200,275,NTD 2023
+New bus stop (basic),per_stop,5000,15000,30000,Agency reports
+New bus stop (shelter + ADA),per_stop_shelter,25000,50000,80000,Agency reports
+New bus route (annual operating),per_route_mile_year,200000,350000,500000,Derived from NTD
+Route extension,per_mile_capital,300000,500000,750000,Derived from NTD

@@ -1,0 +1,41 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Data (raw data too large for git — download via scripts)
+data/raw/gtfs/
+data/raw/shapefiles/*.shp
+data/raw/shapefiles/*.dbf
+data/raw/shapefiles/*.shx
+data/raw/shapefiles/*.prj
+data/raw/shapefiles/*.cpg
+data/raw/shapefiles/*.zip
+
+# QGIS temp files
+qgis/*.qgz~
+qgis/*.qgd
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Power BI / Tableau
+*.pbix.tmp
+~$*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

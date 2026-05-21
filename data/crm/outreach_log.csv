@@ -1,0 +1,41 @@
+outreach_id,date,stakeholder_id,tract_geoid,type,attendees,summary,follow_up_needed
+OUT-001,2026-03-26,STK-012,06013315000,phone,1,Call with Antioch Transit Riders Alliance regarding route 57 concerns,True
+OUT-002,2026-01-27,STK-007,06075012400,email,2,Shared equity analysis findings with SF Tenderloin Community Benefit District,False
+OUT-003,2025-12-25,STK-022,06013315000,survey,4,Distributed rider satisfaction surveys at Antioch stops,True
+OUT-004,2026-02-16,STK-025,06075012400,phone,2,Check-in with Li Wei Chen on outreach coordination,True
+OUT-005,2025-10-05,STK-004,06013360000,phone,4,Call with Richmond Community Foundation regarding route 72M concerns,True
+OUT-006,2025-12-12,STK-007,06075012400,town_hall,14,Residents voiced concerns about Tenderloin bus frequency and safety,True
+OUT-007,2026-02-13,STK-010,06001420100,site_visit,5,Documented accessibility issues at Downtown Oakland stations,True
+OUT-008,2026-03-11,STK-012,06013315000,phone,5,Check-in with Antioch Transit Riders Alliance on outreach coordination,True
+OUT-009,2026-02-20,STK-001,06001401000,site_visit,4,Inspected proposed new stop locations in East Oakland,True
+OUT-010,2025-09-05,STK-021,06075010100,phone,2,Check-in with SFMTA — Equity Office on outreach coordination,True
+OUT-011,2025-08-11,STK-021,06075010100,email,4,Follow-up on feedback items from Financial District residents,True
+OUT-012,2025-11-01,STK-024,06001402100,email,2,Monthly update to James Washington on service improvements,True
+OUT-013,2025-12-12,STK-003,06001401500,site_visit,4,Inspected proposed new stop locations in West Oakland,True
+OUT-014,2026-04-01,STK-022,06013315000,site_visit,4,Inspected proposed new stop locations in Antioch,True
+OUT-015,2025-10-16,STK-006,06013314000,town_hall,34,Community meeting on proposed route changes in Pittsburg,False
+OUT-016,2026-04-10,STK-020,06001420100,town_hall,67,Public hearing on transit equity findings for Downtown Oakland tracts,True
+OUT-017,2025-08-08,STK-003,06001401500,email,5,Shared equity analysis findings with West Oakland Environmental Indicators Project,True
+OUT-018,2025-08-29,STK-023,06001401700,phone,1,Check-in with Maria Gonzalez on outreach coordination,False
+OUT-019,2025-11-10,STK-008,06075023100,site_visit,5,Inspected proposed new stop locations in Bayview,False
+OUT-020,2025-09-10,STK-018,06013315000,town_hall,71,Public hearing on transit equity findings for Antioch tracts,False
+OUT-021,2025-11-10,STK-023,06001401700,email,3,Follow-up on feedback items from Fruitvale residents,False
+OUT-022,2026-02-13,STK-024,06001402100,email,5,Shared equity analysis findings with James Washington,True
+OUT-023,2025-12-26,STK-023,06001401700,site_visit,4,Walked Fruitvale corridor to assess stop conditions,False
+OUT-024,2026-01-06,STK-019,06001420100,phone,3,Check-in with AC Transit — Planning Dept on outreach coordination,False
+OUT-025,2026-02-10,STK-006,06013314000,phone,3,Check-in with Pittsburg Community Action Council on outreach coordination,False
+OUT-026,2026-02-10,STK-002,06001401600,email,4,Monthly update to Fruitvale Unity Council on service improvements,False
+OUT-027,2025-08-18,STK-001,06001401000,email,4,Monthly update to East Oakland Neighbors Coalition on service improvements,True
+OUT-028,2025-08-14,STK-006,06013314000,survey,1,Distributed rider satisfaction surveys at Pittsburg stops,True
+OUT-029,2026-03-19,STK-013,06001401000,town_hall,20,Community meeting on proposed route changes in East Oakland,False
+OUT-030,2025-12-09,STK-019,06001420100,site_visit,1,Inspected proposed new stop locations in Downtown Oakland,True
+OUT-031,2025-10-03,STK-014,06001402000,phone,4,Call with Oakland City Council — District 7 regarding route 97 concerns,True
+OUT-032,2025-11-10,STK-010,06001420100,site_visit,5,Documented accessibility issues at Downtown Oakland stations,True
+OUT-033,2025-12-30,STK-020,06001420100,site_visit,2,Documented accessibility issues at Downtown Oakland stations,False
+OUT-034,2026-01-17,STK-003,06001401500,email,5,Shared equity analysis findings with West Oakland Environmental Indicators Project,False
+OUT-035,2025-08-18,STK-001,06001401000,phone,3,Check-in with East Oakland Neighbors Coalition on outreach coordination,False
+OUT-036,2025-08-26,STK-010,06001420100,site_visit,1,Documented accessibility issues at Downtown Oakland stations,True
+OUT-037,2026-02-16,STK-009,06001420100,phone,5,Call with TransForm (Regional Transit Advocacy) regarding route NL concerns,False
+OUT-038,2026-03-10,STK-005,06001433000,survey,1,Online survey on transit priorities collected 120 responses from Hayward,False
+OUT-039,2025-11-19,STK-010,06001420100,email,4,Monthly update to Bike East Bay on service improvements,False
+OUT-040,2025-11-27,STK-023,06001401700,town_hall,65,Community meeting on proposed route changes in Fruitvale,True
